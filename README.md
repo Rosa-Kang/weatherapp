@@ -1,6 +1,7 @@
 # weatherapp
 You can Scan the QRcode to try this Mobile application.
 https://expo.io/@therosessom/projects/weatherapp
+(Note: the app works only when you have Expo downloaed in your phone.)
 
 Weather App made of React Native & Expo
 
